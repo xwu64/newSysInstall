@@ -8,6 +8,8 @@
 
 - tmux
 
+- htop
+
 - zsh
 
 - oh my zsh
